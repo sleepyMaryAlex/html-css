@@ -25,7 +25,7 @@ li .redLink{
 
 ~~~
 .article > p {       
-    color: red;
+  color: red;
 }
 ~~~
 
@@ -151,6 +151,13 @@ tr:nth-child(2n+1) { background-color: #bbb; } // Число перед n (в д
 ~~~
 
 13. Селекторы атрибутов
+
+~~~
+/* <a> elements with a title attribute */
+a[title] {
+  color: purple;
+}
+~~~
 
 ~~~
 input[type="text"] {   
