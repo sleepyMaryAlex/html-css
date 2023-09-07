@@ -1,8 +1,8 @@
 # ?Element dimensions
 
-`width` - ширина.
+`width` - ширина. По умолчанию - `auto`.
 
-`height` - высота.
+`height` - высота. По умолчанию - `auto`.
 
 (В пикселях, em, процентах)
 
